@@ -1,0 +1,9 @@
+body{
+    margin: 5px;
+}
+
+section{
+    width: 500px;
+    box-shadow: 10px 10px 5px black;
+    align-items: flex-end;
+}
